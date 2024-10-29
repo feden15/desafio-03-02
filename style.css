@@ -6,14 +6,15 @@ h1 {
     font-weight: bold;
 }
 
+body {
+    background-color: rgb(40,150,136);
+}
+
 img {
     border: 10px solid white;
     margin: 5px;
 }
 
-#color-fondo {
-    background-color: rgb(40,150,136);
-}
 
 #imagen {
     text-align: center;
